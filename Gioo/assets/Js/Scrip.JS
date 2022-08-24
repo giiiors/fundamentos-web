@@ -1,0 +1,1 @@
+var nome = window.document.getElementById ('nome')
