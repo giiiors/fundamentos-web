@@ -39,4 +39,25 @@ margin-bottom: 50px;
   padding: 30px
 }
 
+#menu li{
+display: inline;
+padding: 20px;
+}
+
+#menu li a{
+  text-decoration: none;
+  color: black;
+}
+
+#menu li a:hover{
+color:grey;
+}
+
+body{
+  background-color:antiquewhite
+}
+
+/* o comando 'hover' serve para quando o cursor do mouse passar por cima do menu
+ficar com uma cor diferente. a cor que eu escolhi acima foi cinza */
+
 
